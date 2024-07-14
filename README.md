@@ -1,2 +1,2 @@
 # CryptoClustering
-Machine learning assignment
+Machine learning assignment 1
